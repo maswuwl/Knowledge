@@ -1,0 +1,8 @@
+{
+  "name": "المعرفة",
+  "description": "نظام رقمي موحّد صممه خالد لتمكين المستخدمين من تحويل أفكارهم إلى مشاريع حقيقية وربحية.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
